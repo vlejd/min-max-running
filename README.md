@@ -25,3 +25,26 @@ Skip this unleass you already read the rest, or at least most of it.
 - About this text
 - About the author
 - Contributing
+
+# Ideas for next chapters
+- running in bad conditions
+- running at a consistent pace
+- where to run
+- choosing shoes
+- choosing clothes
+- speed vs endurance
+- strength
+- prevention
+- physiotherapy
+- weather
+- ice swimming
+- tracking progress, why it is important to do it manually
+- high priority, low impact triaing
+- Hall higdon training plan
+- 5x5 stronglift
+- tech
+- nasty stuff: ass, chafing, nails, blisters, acnee,
+- running technique: legs, arms, back, knees, feet
+- barefoot
+- training for running muscles: walk backwards, lunges, mobility, core strength, flat feet, knee stability
+- running in numbers
