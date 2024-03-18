@@ -52,3 +52,4 @@ Skip this unleass you already read the rest, or at least most of it.
 - ~~importance of short runs~~
 - running in bad conditions
 - mechanics of energy, lactate acid, oxygen and wear and tear.
+- what could be wrong: core, knees, arms, foot arch, hamstrings, back, anckles, breething, heart.
