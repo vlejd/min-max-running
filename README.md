@@ -48,3 +48,7 @@ Skip this unleass you already read the rest, or at least most of it.
 - barefoot
 - training for running muscles: walk backwards, lunges, mobility, core strength, flat feet, knee stability
 - running in numbers
+- anatomy of a running track
+- importance of short runs
+- running in bad conditions
+- 
