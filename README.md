@@ -51,4 +51,4 @@ Skip this unleass you already read the rest, or at least most of it.
 - anatomy of a running track
 - importance of short runs
 - running in bad conditions
-- 
+- mechanics of energy, lactate acid, oxygen and wear and tear.
