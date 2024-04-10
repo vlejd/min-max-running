@@ -53,3 +53,7 @@ Skip this unleass you already read the rest, or at least most of it.
 - running in bad conditions
 - mechanics of energy, lactate acid, oxygen and wear and tear.
 - what could be wrong: core, knees, arms, foot arch, hamstrings, back, anckles, breething, heart.
+- racing as a way to spice up training
+- racing mistakes: endurance race can not be wom in first 2 km, but it can be lost there. Running to fast, knowing the track, pacing yourself, final stretches.
+- post race recovery
+- alcohol and consequences
