@@ -58,4 +58,6 @@ Most things commonly associated with running don't matter at this point, besides
 
 All of these things will matter eventually. But they do not matter now.
 Only thing that matters is that you go for a slow run today, preferably right now.
-Bye.
+See you tomorrow.
+
+If you want to share, send a picture that illustrates some of the above. 
