@@ -1,5 +1,10 @@
 # Money!
-It is possible to run almost for free. Depending on your goals, climate and desired level of confort, it may be worth to smend some money and invest into some gear.
+It is possible to run almost for free. Depending on your goals, climate and desired level of comfort, it may be worth to spend some money and invest into some gear.
+
+In a same way, you don't need to go for a massage, have a trainer, do your blood work or order an MRI of your knees.
+But it may be worth it in a specific part of your journey.
+
+These are my numbers. TODO check them
 
 ## Clothes
 
@@ -16,12 +21,12 @@ Initial investment 177
 
 
 ### Clothes Summer
-| T-shirt | Energetics | https://www.bike24.com/p2671371.html | 23 | hopefully 10 years, I have 4 |
-| Shorts  | Evadict | https://www.decathlon.sk/p/168232-55074-panske-trailove-priliehave-sortky-confort-cierne.html | 35 | hopefully 5 years |
+| T-shirt | Energetics | https://www.bike24.com/p2671371.html | 23 | 2 years, I have 4 |
+| Shorts  | Evadict | https://www.decathlon.sk/p/168232-55074-panske-trailove-priliehave-sortky-confort-cierne.html | 35 | 2 years |
 | Cap     | Kiprun | https://www.decathlon.sk/p/300422-100398-nastavitelna-bezecka-siltovka-pre-muzov-aj-zeny-cierna.html | 8 | hopefully 5 years |
 | Sun glasses |  ??? | ??? | 30 | hopefully 5 years |
 
-Ammortized per year: 25 
+Ammortized per year: 25
 Initial investment 96
 
 ### Winter
@@ -77,6 +82,7 @@ Total cost per year: 165
 | Physiotherapist | Peter Obzera | https://vasfyzio.sk/ | 50                         | 5 times a year | 
 | Preventive check | Sportsclinic | [https://vasfyzio.sk](https://www.sportclinic.sk/) | 100                         | every year | 
 
+Massage
+Swimming pool entrance fee
 
 Ammortized per year: 300 + 32 + 250 + 100 = 682
-
